@@ -7,7 +7,7 @@
 
 <h1>ayushmannrath</h1>
 
-<h2>Full-Stack + engineer</h2>
+<h2>Full-Stack + Ai engineer</h2>
 
 <p>Building useful software and sharing the work in public.</p>
 
