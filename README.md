@@ -156,15 +156,6 @@
   </tr>
 </table>
 
-<h2>Consistency signal</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ayushmannrath&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F273298182%3Fu%3D248ebea50cf0de3b7ede3b7393c1df48d2ffeca6%26v%3D4&amp;v=recruiter-heatmap-1&amp;mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=ayushmannrath&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F273298182%3Fu%3D248ebea50cf0de3b7ede3b7393c1df48d2ffeca6%26v%3D4&amp;v=recruiter-heatmap-1&amp;mode=dark" width="100%" alt="ayushmannrath contribution activity" />
-  </picture>
-</p>
-
 <hr />
 
 <h2 align="center">🐍 Contribution Snake</h2>
