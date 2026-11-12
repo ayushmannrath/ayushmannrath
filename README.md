@@ -1,7 +1,7 @@
 
-<table width="100%">
+<table width="1100">
 <tr>
-<td width="64%" valign="middle">
+<td width="700" valign="middle">
 
 <p><sub>RECRUITER SIGNAL BRIEF · ayushmannrath</sub></p>
 
@@ -16,9 +16,9 @@
 <p><a href="https://github.com/ayushmannrath">GitHub</a></p>
 
 </td>
-<td width="36%" valign="middle" align="center">
+<td width="400" valign="middle" align="center">
 
-<img src="https://avatars.githubusercontent.com/u/273298182?u=248ebea50cf0de3b7ede3b7393c1df48d2ffeca6&amp;v=4" width="240" alt="ayushmannrath GitHub avatar" />
+<img src="https://avatars.githubusercontent.com/u/273298182?u=248ebea50cf0de3b7ede3b7393c1df48d2ffeca6&amp;v=4" width="260" alt="ayushmannrath GitHub avatar" />
 
 </td>
 </tr>
@@ -49,10 +49,22 @@
 
 <table width="100%">
 <tr>
-<td width="25%" align="center"><strong>7</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>32</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+<td width="25%" align="center">
+<strong>7</strong><br />
+<sub>Repositories</sub>
+</td>
+<td width="25%" align="center">
+<strong>0</strong><br />
+<sub>Stars</sub>
+</td>
+<td width="25%" align="center">
+<strong>32</strong><br />
+<sub>Contributions</sub>
+</td>
+<td width="25%" align="center">
+<strong>0</strong><br />
+<sub>Followers</sub>
+</td>
 </tr>
 </table>
 
@@ -113,11 +125,26 @@
 
 <table width="100%">
 <tr>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>41% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>40% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>9% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>9% of public code</sub></td>
-<td width="20%" align="center"><strong>Dockerfile</strong><br /><sub>1% of public code</sub></td>
+<td width="20%" align="center">
+<strong>Python</strong><br />
+<sub>41% of public code</sub>
+</td>
+<td width="20%" align="center">
+<strong>JavaScript</strong><br />
+<sub>40% of public code</sub>
+</td>
+<td width="20%" align="center">
+<strong>CSS</strong><br />
+<sub>9% of public code</sub>
+</td>
+<td width="20%" align="center">
+<strong>HTML</strong><br />
+<sub>9% of public code</sub>
+</td>
+<td width="20%" align="center">
+<strong>Dockerfile</strong><br />
+<sub>1% of public code</sub>
+</td>
 </tr>
 </table>
 
@@ -144,4 +171,6 @@
 </tr>
 </table>
 
-<p align="center"><sub>ayushmannrath · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center">
+<sub>ayushmannrath · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
+</p>
