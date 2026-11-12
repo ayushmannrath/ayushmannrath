@@ -16,16 +16,17 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
-      - name: Generate snake from contribution graph
+      - name: Generate Neon Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: ayushmannrath
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=%237C3AED&color_dots=%23F3E8FF,%23DDD6FE,%23C4B5FD,%238B5CF6,%236D28D9
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%2322D3EE&color_dots=%23111827,%230E7490,%2306B6D4,%2322D3EE,%23A5F3FC
 
-      - name: Push snake to output branch
+      - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
