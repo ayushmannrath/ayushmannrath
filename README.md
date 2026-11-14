@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-<h2>About me</h2>
+<h2>About Me</h2>
 
 <p>
   Hi, I’m Ayushmann, a final-year MCA student from Odisha, India. I like building full-stack and AI-powered projects, and I’m currently strengthening my DSA alongside backend development with Python.
